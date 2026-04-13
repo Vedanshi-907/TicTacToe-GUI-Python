@@ -20,12 +20,11 @@ This is a 2-player game where players take turns marking X and O on a 3x3 grid.
 - Python
 - Tkinter (GUI library)
 
---
 
 ## ▶️ How to Run
 
 ### Step 1: Clone the repository
-git clone <https://github.com/your-username/TicTacToe-GUI-Python.git>
+git clone <https://github.com/Vedanshi-907/TicTacToe-GUI-Python>
 
 ### Step 2: Navigate to folder
 cd TicTacToe-GUI-Python
