@@ -20,6 +20,7 @@ This is a 2-player game where players take turns marking X and O on a 3x3 grid.
 - Python
 - Tkinter (GUI library)
 
+--
 
 ## ▶️ How to Run
 
@@ -35,7 +36,9 @@ python main.py
 ## 📌 Project Structure
 TicTacToe-GUI-Python/
 │
+
 ├── main.py
+
 └── README.md
 
 ## 👩‍💻 Author
